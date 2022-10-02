@@ -4,5 +4,5 @@ DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,yowang.top
 DOMAIN-SUFFIX,rapidseedbox.com
-DOMAIN-SUFFIX,seedbox.vip
+DOMAIN-KEYWORD,seedbox
 DOMAIN-KEYWORD,speedtest
