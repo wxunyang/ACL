@@ -1,11 +1,7 @@
 # 直连列表
 
-# MyList
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,yowang.top
-DOMAIN-KEYWORD,announce
-DOMAIN-KEYWORD,tracker
+DOMAIN-SUFFIX,rapidseedbox.com
 DOMAIN-KEYWORD,speedtest
-DOMAIN,t.audiences.me
-DOMAIN-KEYWORD,seedbox
