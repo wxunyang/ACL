@@ -1,11 +1,12 @@
-#Personal
-DOMAIN-SUFFIX,plex.tv
+# Personal
 DOMAIN-SUFFIX,yowang.top
-#Clash Royale
+DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,emby.media
+# Clash Royale
 DOMAIN-SUFFIX,supercell.com
 DOMAIN-SUFFIX,clashroyaleapp.com
 DOMAIN-KEYWORD,seedbox
-#NetworkTest
+# NetworkTest
 DOMAIN-SUFFIX,uwn.com
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-KEYWORD,speedtest
