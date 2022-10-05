@@ -1,9 +1,11 @@
-# 直连列表
+#Personal
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,yowang.top
-DOMAIN-SUFFIX,test-ipv6.com
+#Clash Royale
 DOMAIN-SUFFIX,supercell.com
 DOMAIN-SUFFIX,clashroyaleapp.com
 DOMAIN-KEYWORD,seedbox
+#NetworkTest
 DOMAIN-SUFFIX,uwn.com
+DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-KEYWORD,speedtest
