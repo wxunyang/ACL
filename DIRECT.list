@@ -11,3 +11,4 @@ DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-KEYWORD,speedtest
 #Download
 DOMAIN-KEYWORD,seedbox
+DOMAIN,t.audiences.me
