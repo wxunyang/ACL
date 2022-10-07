@@ -11,6 +11,6 @@ DOMAIN-SUFFIX,uwn.com
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-KEYWORD,speedtest
 #Download
+DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,soulvoice.club
 DOMAIN-KEYWORD,seedbox
-DOMAIN,t.audiences.me
-DOMAIN,pt.soulvoice.club
