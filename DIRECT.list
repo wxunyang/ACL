@@ -16,3 +16,5 @@ DOMAIN-SUFFIX,audiences.me
 DOMAIN-SUFFIX,soulvoice.club
 DOMAIN-SUFFIX,discfan.net
 DOMAIN-KEYWORD,seedbox
+#CDN
+DOMAIN-SUFFIX,cloudflare.com
