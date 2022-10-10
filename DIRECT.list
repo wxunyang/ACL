@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-KEYWORD,seedbox
 #常用
 DOMAIN-SUFFIX,ucweb.com
+DOMAIN-SUFFIX,uc.cn
 DOMAIN-SUFFIX,myquark.cn
 #CDN
 DOMAIN-SUFFIX,cloudflare.com
