@@ -6,6 +6,8 @@ DOMAIN-SUFFIX,emby.media
 # Clash Royale
 DOMAIN-SUFFIX,supercell.com
 DOMAIN-SUFFIX,clashroyaleapp.com
+#CDN
+DOMAIN-SUFFIX,cloudflare.com
 # NetworkTest
 DOMAIN-SUFFIX,uwn.com
 DOMAIN-SUFFIX,test-ipv6.com
@@ -21,5 +23,3 @@ DOMAIN-KEYWORD,seedbox
 DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,uc.cn
 DOMAIN-SUFFIX,myquark.cn
-#CDN
-DOMAIN-SUFFIX,cloudflare.com
