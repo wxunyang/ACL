@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,emby.media
 # Clash Royale
 DOMAIN-SUFFIX,supercell.com
 DOMAIN-SUFFIX,clashroyaleapp.com
+DOMAIN-SUFFIX,clashroyal.com
 DOMAIN-SUFFIX,kunlun.com
 #CDN
 DOMAIN-SUFFIX,cloudflare.com
