@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,supercell.com
 #DOMAIN-SUFFIX,clashroyaleapp.com
 #DOMAIN-SUFFIX,clashroyal.com
 DOMAIN-SUFFIX,kunlun.com
+DOMAIN,qqwry.api.skk.moe
 #CDN
 DOMAIN-SUFFIX,cloudflare.com
 # Network
