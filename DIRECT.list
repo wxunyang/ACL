@@ -24,7 +24,7 @@ DOMAIN-SUFFIX,audiences.me
 DOMAIN-SUFFIX,soulvoice.club
 DOMAIN-SUFFIX,discfan.net
 DOMAIN-SUFFIX,azurewebsites.net
-DOMAIN-KEYWORD,seedbox
+#DOMAIN-KEYWORD,seedbox
 #常用
 #DOMAIN-SUFFIX,ucweb.com
 #DOMAIN-SUFFIX,uc.cn
