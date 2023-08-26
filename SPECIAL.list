@@ -6,9 +6,7 @@ DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,playno1.com
 DOMAIN-SUFFIX,playio1.com
 DOMAIN-SUFFIX,sexyno1.com
-DOMAIN-SUFFIX,clashroyaleapp.com
-DOMAIN-SUFFIX,clashroyal.com
-DOMAIN-SUFFIX,msftconnecttest.com
-DOMAIN-SUFFIX,bing.com
+#DOMAIN-SUFFIX,clashroyaleapp.com
+#DOMAIN-SUFFIX,clashroyal.com
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,bard
