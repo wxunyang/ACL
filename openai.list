@@ -1,2 +1,8 @@
 DOMAIN-SUFFIX,openai.com
 DOMAIN-KEYWORD,adobe
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,bard
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.net
