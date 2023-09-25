@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,uwn.com
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-KEYWORD,speedtest
 DOMAIN-SUFFIX,suo.yt
+PROCESS-NAME,zerotier-one
 #Download
 DOMAIN-SUFFIX,pterclub.com
 DOMAIN-SUFFIX,audiences.me
