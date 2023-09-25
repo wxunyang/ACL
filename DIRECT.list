@@ -13,7 +13,7 @@ DOMAIN-SUFFIX,supercell.com
 DOMAIN-SUFFIX,kunlun.com
 DOMAIN,qqwry.api.skk.moe
 #CDN
-DOMAIN-SUFFIX,cloudflare.com
+#DOMAIN-SUFFIX,cloudflare.com
 # Network
 DOMAIN-SUFFIX,uwn.com
 DOMAIN-SUFFIX,test-ipv6.com
