@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-KEYWORD,speedtest
 DOMAIN-SUFFIX,suo.yt
 PROCESS-NAME,zerotier-one
+DOMAIN-KEYWORD,zerotier
 #Download
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,hdchina.org
