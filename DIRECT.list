@@ -7,7 +7,7 @@ DOMAIN-SUFFIX,roonlabs.com
 DOMAIN-SUFFIX,roonlabs.net
 DOMAIN-SUFFIX,monolithicpower.com
 # Clash Royale
-DOMAIN-SUFFIX,supercell.com
+#DOMAIN-SUFFIX,supercell.com
 #DOMAIN-SUFFIX,clashroyaleapp.com
 #DOMAIN-SUFFIX,clashroyal.com
 DOMAIN-SUFFIX,kunlun.com
