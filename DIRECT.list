@@ -9,7 +9,7 @@ IP-CIDR,103.115.44.75/32
 DOMAIN-SUFFIX,yowang.top
 DOMAIN-SUFFIX,myqnapcloud.com
 DOMAIN-SUFFIX,mbot.vip
-DOMAIN-SUFFIX,plex.tv
+#DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,emby.media
 DOMAIN-SUFFIX,roonlabs.com
 DOMAIN-SUFFIX,roonlabs.net
